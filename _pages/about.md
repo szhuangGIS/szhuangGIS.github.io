@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology</div><img src='images/UrbanRunoff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Urbanization enhances channel and surface runoff: A quantitative analysis using both physical and empirical models over the Yangtze River basin](https://linkinghub.elsevier.com/retrieve/pii/S0022169424005894)
