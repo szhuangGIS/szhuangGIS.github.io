@@ -31,11 +31,11 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology</div><img src='images/UrbanRunoff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Urbanization enhances channel and surface runoff: A quantitative analysis using both physical and empirical models over the Yangtze River basin](https://linkinghub.elsevier.com/retrieve/pii/S0022169424005894)
+[Urbanization enhances channel and surface runoff: A quantitative analysis using both physical and empirical models over the Yangtze River basin](https://linkinghub.elsevier.com/retrieve/pii/S0022169424005894) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 **Shuzhe Huang**, Yuan Gan, Nengcheng Chen, Chao Wang, Xiang Zhang, Chuxuan Li, Daniel Horton
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Channel runoff and surface runoff were simulated using WRF-Hydro and SCS-CN models.
 - Urbanization tended to increase both surface runoff and channel runoff.
 - High-rise buildings and compact regions were more prone to trigger flooding events.
@@ -43,7 +43,22 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS P&RS</div><img src='images/TwoStepFusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Two-step fusion method for generating 1 km seamless multi-layer soil moisture with high accuracy in the Qinghai-Tibet plateau](https://www.sciencedirect.com/science/article/pii/S0924271623000497) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+
+**Shuzhe Huang**, Xiang Zhang, Chao Wang, Nengcheng Chen
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Channel runoff and surface runoff were simulated using WRF-Hydro and SCS-CN models.
+- Urbanization tended to increase both surface runoff and channel runoff.
+- High-rise buildings and compact regions were more prone to trigger flooding events.
+- Potential influencing factors were explored using interpretable machine learning.
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**  -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
