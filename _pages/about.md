@@ -28,10 +28,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology</div><img src='images/UrbanRunoff.png' alt="sym" width="100%"></div></div>
+### 📖 First-author and Corresponding-author Papers (第一作者及通讯作者论文)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology 2024</div><img src='images/UrbanRunoff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Urbanization enhances channel and surface runoff: A quantitative analysis using both physical and empirical models over the Yangtze River basin](https://linkinghub.elsevier.com/retrieve/pii/S0022169424005894) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:9yKSN-GCB0IC'></span></strong>
+
+[Urbanization enhances channel and surface runoff: A quantitative analysis using both physical and empirical models over the Yangtze River basin](https://linkinghub.elsevier.com/retrieve/pii/S0022169424005894) <strong>(中科院一区TOP/JCRQ1, IF=5.9)</strong>
 
 **Shuzhe Huang**, Yuan Gan, Nengcheng Chen, Chao Wang, Xiang Zhang, Chuxuan Li, Daniel Horton
 
@@ -43,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS P&RS</div><img src='images/TwoStepFusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS P&RS 2023</div><img src='images/TwoStepFusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Two-step fusion method for generating 1 km seamless multi-layer soil moisture with high accuracy in the Qinghai-Tibet plateau](https://www.sciencedirect.com/science/article/pii/S0924271623000497) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
@@ -58,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth's Future</div><img src='images/UrbanDrought-EF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth's Future 2023</div><img src='images/UrbanDrought-EF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Urbanization Amplified Asymmetrical Changes of Rainfall and Exacerbated Drought: Analysis Over Five Urban Agglomerations in the Yangtze River Basin, China](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003117) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
@@ -72,7 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Climate</div><img src='images/UrbanDrought-UC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Climate 2022</div><img src='images/UrbanDrought-UC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Urbanization-induced drought modification: Example over the Yangtze River Basin, China](https://www.sciencedirect.com/science/article/pii/S2212095522001493) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
@@ -86,7 +89,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agricultural and Forest Meteorology</div><img src='images/Downscale-AFM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agricultural and Forest Meteorology 2022</div><img src='images/Downscale-AFM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating high-accuracy and cloud-free surface soil moisture at 1 km resolution by point-surface data fusion over the Southwestern U.S.](https://www.sciencedirect.com/science/article/pii/S0168192322001757) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
@@ -101,7 +104,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Water Resources Research</div><img src='images/Downscale-WRR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Water Resources Research 2022</div><img src='images/Downscale-WRR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Novel Fusion Method for Generating Surface Soil Moisture Data With High Accuracy, High Spatial Resolution, and High Spatio‐Temporal Continuity](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR030827) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
@@ -115,7 +118,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology</div><img src='images/DroughtPropagation-JOH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology 2021</div><img src='images/DroughtPropagation-JOH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Drought Propagation Modification After the Construction of the Three Gorges Dam in the Yangtze River Basin](https://www.sciencedirect.com/science/article/pii/S0022169421011884) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
@@ -130,7 +133,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing</div><img src='images/Downscale-RS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2021</div><img src='images/Downscale-RS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generating 1 km Spatially Seamless and Temporally Continuous Air Temperature Based on Deep Learning over Yangtze River Basin, China](https://www.mdpi.com/2072-4292/13/19/3904) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
@@ -142,15 +145,37 @@ Rui Li, Tailai Huang, Yu Song, **Shuzhe Huang***, Xiang Zhang
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**  -->
+### 📖 Co-author Papers (合作作者论文)
+<ul>
+<li>
+<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 1px;">Journal of Hydrology 2024</code>
+<a href="https://www.sciencedirect.com/science/article/pii/S0022169424000593">Data fusion of satellite imagery and downscaling for generating highly fine-scale precipitation</a>, Xiang Zhang, Yu Song, Won-Ho Nam, Tailai Huang, Xihui Gu, Jiangyuan Zeng, <strong>Shuzhe Huang</strong>, Nengcheng Chen, Zhao Yan, Dev Niyogi. <strong>(中科院一区TOP/JCRQ1, IF=5.9)</strong>
+</li>
+<li>
+<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 1px;">Advances in Earth Science 2023</code>
+<a href="http://www.adearth.ac.cn/CN/10.11867/j.issn.1001-8166.2023.024">Research Progress, Challenges, and Prospects in Drought Propagation</a>, Xiang Zhang, <strong>Shuzhe Huang</strong>, Yuhang Guan. (Chinese)
+</li>
+<li>
+<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 1px;">Remote Sensing Applications: Society and Environment 2023</code>
+<a href="https://www.sciencedirect.com/science/article/pii/S2352938523002173">Considering geographical spatiotemporal attributes for seamless air temperature data fusion with high accuracy</a>, Tailai Huang, Xiang Zhang, Berhanu Keno Terfa, Won-Ho Nam, Xihui Gu, Jiangyuan Zeng, Xu Zhang, <strong>Shuzhe Huang</strong> et al. <strong>(IF=3.8)</strong>
+</li>
+<li>
+<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 1px;">Remote Sensing 2022</code>
+<a href="https://www.mdpi.com/2072-4292/14/15/3536">Deep Learning-Based 500 m Spatio-Temporally Continuous Air Temperature Generation by Fusing Multi-Source Data</a>, Xiang Zhang, Aminjon Gulakhmadov, Yu Song, Xihui Gu, Jiangyuan Zeng, <strong>Shuzhe Huang</strong> et al. <strong>(中科院二区/JCRQ1, IF=4.2)</strong>
+</li>
+</ul>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🏫 Educations
+- *2022.09 - now*, PhD (1+4 Joint Masters and PhD Programs), [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/), Wuhan University, Wuhan. 
+**Major: Cartography and Geographical information engineering | Advisor: [Prof. Jing Chen](http://jszy.whu.edu.cn/Geochenjing/zh_CN/index.htm), [Prof. Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/zh_CN/index.htm)** 
+- *2020.09 - 2022.06*, Master (1+4 Joint Masters and PhD Programs), [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/), Wuhan University, Wuhan. 
+**Major: Cartography and Geographical information engineering | Advisor: [Prof. Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/zh_CN/index.htm)** 
+- *2016.09 - 2020.06*,  Undergraduate, [School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), Wuhan University, Wuhan. 
+**Major: Surveying and Mapping Engineering**
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
