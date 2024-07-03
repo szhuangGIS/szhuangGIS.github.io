@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 ### 📖 First-author and Corresponding-author Papers (第一作者及通讯作者论文)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology</div><imgsrc='images/UrbanRunoff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology</div><img src='images/UrbanRunoff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -146,14 +146,15 @@ Rui Li, Tailai Huang, Yu Song, **Shuzhe Huang***, Xiang Zhang
 </div>
 
 ### 📖 Co-author Papers (合作作者论文)
+- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
 
 <ul>
 <li>
-<code class='language-plaintext highlighter-rouge'>Journal of Hydrology 2024</code>&nbsp
+<code class='language-plaintext highlighter-rouge'>Journal of Hydrology 2024</code>
 <a href="https://www.sciencedirect.com/science/article/pii/S0022169424000593">Data fusion of satellite imagery and downscaling for generating highly fine-scale precipitation</a>, Xiang Zhang, Yu Song, Won-Ho Nam, Tailai Huang, Xihui Gu, Jiangyuan Zeng, <strong>Shuzhe Huang</strong>, Nengcheng Chen, Zhao Yan, Dev Niyogi. <strong>(中科院一区TOP/JCRQ1, IF=5.9)</strong>
 </li>
 <li>
-<code class='language-plaintext highlighter-rouge'>Remote Sensing Applications: Society and Environment 2024</code>&nbsp
+<code class='language-plaintext highlighter-rouge'>Remote Sensing Applications: Society and Environment 2024</code>
 <a href="https://www.sciencedirect.com/science/article/pii/S2352938523002173">Considering geographical spatiotemporal attributes for seamless air temperature data fusion with high accuracy</a>, Tailai Huang, Xiang Zhang, Berhanu Keno Terfa, Won-Ho Nam, Xihui Gu, Jiangyuan Zeng, Xu Zhang, <strong>Shuzhe Huang</strong> et al. <strong>(IF=3.8)</strong>
 </li>
 </ul>
