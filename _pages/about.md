@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-### 📖 First-author and Corresponding-author Papers (第一作者及通讯作者论文)
+### 📖 First-author and Corresponding-author Papers (第一作者及通讯作者论文): <font color="red">中科院一区TOP\*6+中科院二区\*2 | JCRQ1\*8</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology 2024</div><img src='images/UrbanRunoff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Shuzhe Huang**, Yuan Gan, Nengcheng Chen, Chao Wang, Xiang Zhang, Chuxuan Li, Daniel Horton
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:9yKSN-GCB0IC'></span></strong>
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:9yKSN-GCB0IC'></span></strong> -->
 - Channel runoff and surface runoff were simulated using WRF-Hydro and SCS-CN models.
 - Urbanization tended to increase both surface runoff and channel runoff.
 - High-rise buildings and compact regions were more prone to trigger flooding events.
@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS P&RS 2023</div><img src='images/TwoStepFusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Two-step fusion method for generating 1 km seamless multi-layer soil moisture with high accuracy in the Qinghai-Tibet plateau](https://www.sciencedirect.com/science/article/pii/S0924271623000497) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[Two-step fusion method for generating 1 km seamless multi-layer soil moisture with high accuracy in the Qinghai-Tibet plateau](https://www.sciencedirect.com/science/article/pii/S0924271623000497) <strong>(中科院一区TOP/JCRQ1, IF=10.6)</strong>
 
 **Shuzhe Huang**, Xiang Zhang, Chao Wang, Nengcheng Chen
 
@@ -64,7 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth's Future 2023</div><img src='images/UrbanDrought-EF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Urbanization Amplified Asymmetrical Changes of Rainfall and Exacerbated Drought: Analysis Over Five Urban Agglomerations in the Yangtze River Basin, China](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003117) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[Urbanization Amplified Asymmetrical Changes of Rainfall and Exacerbated Drought: Analysis Over Five Urban Agglomerations in the Yangtze River Basin, China](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003117) <strong>(中科院一区TOP/JCRQ1, IF=7.3)</strong>
 
 **Shuzhe Huang**, Yuan Gan, Xiang Zhang, Nengcheng Chen, Chao Wang, Xihui Gu, Jingjin Ma, Dev Niyogi
 
@@ -76,9 +76,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Urban Climate 2022</div><img src='images/UrbanDrought-UC.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> 
 
-[Urbanization-induced drought modification: Example over the Yangtze River Basin, China](https://www.sciencedirect.com/science/article/pii/S2212095522001493) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[Urbanization-induced drought modification: Example over the Yangtze River Basin, China](https://www.sciencedirect.com/science/article/pii/S2212095522001493) <strong>(中科院二区/JCRQ1, IF=6.0)</strong>
 
 **Shuzhe Huang**, Xiang Zhang, Long Yang, Nengcheng Chen, Won-Ho Nam, Dev Niyogi
 
@@ -92,7 +92,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agricultural and Forest Meteorology 2022</div><img src='images/Downscale-AFM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generating high-accuracy and cloud-free surface soil moisture at 1 km resolution by point-surface data fusion over the Southwestern U.S.](https://www.sciencedirect.com/science/article/pii/S0168192322001757) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[Generating high-accuracy and cloud-free surface soil moisture at 1 km resolution by point-surface data fusion over the Southwestern U.S.](https://www.sciencedirect.com/science/article/pii/S0168192322001757) <strong>(中科院一区TOP/JCRQ1, IF=5.6)</strong>
 
 **Shuzhe Huang**, Xiang Zhang, Nengcheng Chen, Hongliang Ma, Jiangyuan Zeng, Peng Fu, Won-Ho Nam, Dev Niyogi
 
@@ -107,7 +107,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Water Resources Research 2022</div><img src='images/Downscale-WRR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Novel Fusion Method for Generating Surface Soil Moisture Data With High Accuracy, High Spatial Resolution, and High Spatio‐Temporal Continuity](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR030827) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[A Novel Fusion Method for Generating Surface Soil Moisture Data With High Accuracy, High Spatial Resolution, and High Spatio‐Temporal Continuity](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR030827) <strong>(中科院一区TOP/JCRQ1, IF=4.6)</strong>
 
 **Shuzhe Huang**, Xiang Zhang, Nengcheng Chen, Hongliang Ma, Peng Fu, Jianzhi Dong, Xihui Gu, Won-Ho Nam, Lei Xu, Gerhard Rab, Dev Niyogi
 
@@ -121,7 +121,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology 2021</div><img src='images/DroughtPropagation-JOH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Drought Propagation Modification After the Construction of the Three Gorges Dam in the Yangtze River Basin](https://www.sciencedirect.com/science/article/pii/S0022169421011884) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[Drought Propagation Modification After the Construction of the Three Gorges Dam in the Yangtze River Basin](https://www.sciencedirect.com/science/article/pii/S0022169421011884) <strong>(中科院一区TOP/JCRQ1, IF=6.4)</strong>
 
 **Shuzhe Huang**, Xiang Zhang, Nengcheng Chen, Boyan Li, Hongliang Ma, Lei Xu, Ronghui Li, Dev Niyogi
 
@@ -136,7 +136,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2021</div><img src='images/Downscale-RS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generating 1 km Spatially Seamless and Temporally Continuous Air Temperature Based on Deep Learning over Yangtze River Basin, China](https://www.mdpi.com/2072-4292/13/19/3904) <strong><span class='show_paper_citations' data='DlyvJzYAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[Generating 1 km Spatially Seamless and Temporally Continuous Air Temperature Based on Deep Learning over Yangtze River Basin, China](https://www.mdpi.com/2072-4292/13/19/3904) <strong>(中科院二区/JCRQ1, IF=4.2)</strong>
 
 Rui Li, Tailai Huang, Yu Song, **Shuzhe Huang***, Xiang Zhang
 
