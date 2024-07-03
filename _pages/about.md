@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a second-year PhD student in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, advised by [Prof. Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/zh_CN/index.htm) and [Prof. Jing Chen](http://jszy.whu.edu.cn/Geochenjing/zh_CN/index/220155/list/index.htm). I also collaborate with [Prof. Xiang Zhang](https://grzy.cug.edu.cn/zhangxiang/zh_CN/index.htm), [Prof. Chao Wang](http://jszy.whu.edu.cn/wangchao/zh_CN/index.htm), [Prof. Dev Niyogi](https://www.jsg.utexas.edu/researcher/dev_niyogi/), and [Prof. Daniel Hortan](https://www.earth.northwestern.edu/our-people/faculty/horton-daniel.html) closely.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes urban informatics, drought monitoring and analysis, and multi-source data fusion. I have published 10+ papers at the top journals in the field of earth science, hydrology, and remote sensing, such as ISPRS P&RS, WRR, JOH, and EF.
 
+Email: **szhuang@whu.edu.cn**
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
