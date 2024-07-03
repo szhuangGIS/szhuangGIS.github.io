@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-### 📖 First-author and Corresponding-author Papers (第一作者及通讯作者论文): <font color="red">中科院一区TOP\*6+中科院二区\*2 | JCRQ1\*8</font>
+### 📖 First-author and Corresponding-author Papers (第一作者及通讯作者论文): <font color="red">中科院一区TOP*6+中科院二区*2 | JCRQ1*8</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Hydrology 2024</div><img src='images/UrbanRunoff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
