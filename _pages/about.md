@@ -148,16 +148,16 @@ Rui Li, Tailai Huang, Yu Song, **Shuzhe Huang***, Xiang Zhang
 ### 📖 Co-author Papers (合作作者论文)
 <ul>
 <li>
-<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 2px;">Journal of Hydrology 2024</code>
+<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 1px;">Journal of Hydrology 2024</code>
 <a href="https://www.sciencedirect.com/science/article/pii/S0022169424000593">Data fusion of satellite imagery and downscaling for generating highly fine-scale precipitation</a>, Xiang Zhang, Yu Song, Won-Ho Nam, Tailai Huang, Xihui Gu, Jiangyuan Zeng, <strong>Shuzhe Huang</strong>, Nengcheng Chen, Zhao Yan, Dev Niyogi. <strong>(中科院一区TOP/JCRQ1, IF=5.9)</strong>
 </li>
 <li>
-<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 2px;">Remote Sensing Applications: Society and Environment 2024</code>
+<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 1px;">Remote Sensing Applications: Society and Environment 2024</code>
 <a href="https://www.sciencedirect.com/science/article/pii/S2352938523002173">Considering geographical spatiotemporal attributes for seamless air temperature data fusion with high accuracy</a>, Tailai Huang, Xiang Zhang, Berhanu Keno Terfa, Won-Ho Nam, Xihui Gu, Jiangyuan Zeng, Xu Zhang, <strong>Shuzhe Huang</strong> et al. <strong>(IF=3.8)</strong>
 </li>
 <li>
-<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 2px;">Remote Sensing 2022</code>
-<a href="https://www.mdpi.com/2072-4292/14/15/3536">Deep Learning-Based 500 m Spatio-Temporally Continuous Air Temperature Generation by Fusing Multi-Source Data</a>, Xiang Zhang, Aminjon Gulakhmadov, Yu Song, Xihui Gu, Jiangyuan Zeng, <strong>Shuzhe Huang</strong> et al. <strong>(中科院一区TOP/JCRQ1, IF=4.2)</strong>
+<code class='language-plaintext highlighter-rouge' style="background-color: #03228d; color: white;padding: 1px;">Remote Sensing 2022</code>
+<a href="https://www.mdpi.com/2072-4292/14/15/3536">Deep Learning-Based 500 m Spatio-Temporally Continuous Air Temperature Generation by Fusing Multi-Source Data</a>, Xiang Zhang, Aminjon Gulakhmadov, Yu Song, Xihui Gu, Jiangyuan Zeng, <strong>Shuzhe Huang</strong> et al. <strong>(中科院二区/JCRQ1, IF=4.2)</strong>
 </li>
 </ul>
 
