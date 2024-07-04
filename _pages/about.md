@@ -17,11 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year PhD student in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, advised by [Prof. Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/zh_CN/index.htm) and [Prof. Jing Chen](http://jszy.whu.edu.cn/Geochenjing/zh_CN/index/220155/list/index.htm). I also collaborate with [Prof. Xiang Zhang](https://grzy.cug.edu.cn/zhangxiang/zh_CN/index.htm), [Prof. Chao Wang](http://jszy.whu.edu.cn/wangchao/zh_CN/index.htm), [Prof. Dev Niyogi](https://www.jsg.utexas.edu/researcher/dev_niyogi/), and [Prof. Daniel Hortan](https://www.earth.northwestern.edu/our-people/faculty/horton-daniel.html) closely.
+I am currently a second-year PhD student in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, advised by Prof. Nengcheng Chen and Prof. Jing Chen. I also collaborate with Prof. Xiang Zhang, Prof. Chao Wang, Prof. Dev Niyogi, and Prof. Daniel Hortan closely.
 
 My research interest includes urban informatics, drought monitoring and analysis, and multi-source data fusion. I have published 10+ papers at the top journals in the field of earth science, hydrology, and remote sensing, such as ISPRS P&RS, WRR, JOH, and EF.
 
 Email: **szhuang@whu.edu.cn**
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -167,16 +174,22 @@ Rui Li, Tailai Huang, Yu Song, **Shuzhe Huang***, Xiang Zhang
 </ul>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09* **ESRI Young Scholar Award** (a total of 31 scholars over the globe win this award in 2019, only one in China mainland) **|** [Report1](https://community.esri.com/t5/education-blog/congratulations-to-the-2019-esri-young-scholar/ba-p/883196) [Report2](https://www.arcgis.com/apps/MapTour/index.html?appid=6431ce46189040c79fb0f3b5d0910e4f) [Video](https://www.youtube.com/watch?v=2JbRIwQgFTQ)
+- *2018.11* Jianbai Xia Award for Entrepreneurship and Technological Innovation in Surveying and Mapping **Outstanding Student Award** **|** [Report](http://xiajianbai.sgg.whu.edu.cn/huojiang/xsj/)
+- *2018.09* ESRI China University GIS Software Development Competition **Grand Prize!** **|** [Video](https://www.bilibili.com/video/BV1Ut411q73P/?spm_id_from=333.337.search-card.all.click&vd_source=55d05f27a15e24ca18b3756434aab0b2)  [Report](https://news.whu.edu.cn/info/1003/52533.htm)
 
 # 🏫 Educations
 - *2022.09 - now*, PhD (1+4 Joint Masters and PhD Programs), [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/), Wuhan University, Wuhan. 
-**Major: Cartography and Geographical information engineering | Advisor: [Prof. Jing Chen](http://jszy.whu.edu.cn/Geochenjing/zh_CN/index.htm), [Prof. Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/zh_CN/index.htm)** 
+
+  **Major: Cartography and Geographical information engineering | Advisor: [Prof. Jing Chen](http://jszy.whu.edu.cn/Geochenjing/zh_CN/index.htm), [Prof. Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/zh_CN/index.htm)** 
+
 - *2020.09 - 2022.06*, Master (1+4 Joint Masters and PhD Programs), [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS)](https://liesmars.whu.edu.cn/), Wuhan University, Wuhan. 
-**Major: Cartography and Geographical information engineering | Advisor: [Prof. Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/zh_CN/index.htm)** 
+
+  **Major: Cartography and Geographical information engineering | Advisor: [Prof. Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/zh_CN/index.htm)** 
+
 - *2016.09 - 2020.06*,  Undergraduate, [School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), Wuhan University, Wuhan. 
-**Major: Surveying and Mapping Engineering**
+
+  **Major: Surveying and Mapping Engineering**
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
